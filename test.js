@@ -1,3 +1,3 @@
-let generateSportsTeamName = require('./sportsTeamNameGenerator.js')
+let generateSportsTeamName = require('./generateSportsTeamName.js')
 
 console.log(generateSportsTeamName())
