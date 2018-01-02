@@ -1,0 +1,29 @@
+{
+  "name": "sports-team-name-generator",
+  "version": "1.0.0",
+  "description": "Generates rather silly sports team names.",
+  "main": "sportsTeamNameGenerator.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sport",
+    "team",
+    "sports",
+    "team",
+    "name",
+    "generator",
+    "name",
+    "generator",
+    "team",
+    "name",
+    "generator",
+    "team",
+    "generator"
+  ],
+  "author": "August Alexandersson",
+  "license": "ISC",
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
+}
