@@ -4,6 +4,7 @@ Generate a rather silly sports team name.
 Code usage:
 
 let generateSportsTeamName = require('./sportsTeamNameGenerator.js')
+
 let teamName = generateSportsTeamName()
 
 
