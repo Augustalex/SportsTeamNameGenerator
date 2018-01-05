@@ -2,7 +2,7 @@
   "name": "sports-team-name-generator",
   "version": "1.0.0",
   "description": "Generates rather silly sports team names.",
-  "main": "sportsTeamNameGenerator.js",
+  "main": "generateSportsTeamName.js",
   "scripts": {
     "test": "node test.js"
   },
